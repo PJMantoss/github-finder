@@ -1,4 +1,5 @@
 [build]
+    functions = "lambda"
     publish="build"
   [[redirects]]
   from = "/*"
