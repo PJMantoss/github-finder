@@ -4,9 +4,9 @@ import Users from '../users/Users';
 
 const Home = () => (
     <Fragment>
-    <Search />
-    <Users />
-</Fragment>
+        <Search />
+        <Users />
+    </Fragment>
 )
 
 export default Home;
